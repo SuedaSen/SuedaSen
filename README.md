@@ -3,7 +3,7 @@
 
 - 💻 I'm Software Engineering 4rd Year Student
 - 🔭 I’m currently working on Autonomous Technologies  
-- 🌱 I’m currently learning Unity, C++, C#, ROS
+- 🌱 I’m currently learning Unity, ROS, C++, C#
 - ⚡ Fun fact: I like playing video games! (Especially Simulation, Adventure and Thriller -Story-Based-) 🎮
 
 
