@@ -2,8 +2,8 @@
 ![Alt Text](https://s6.gifyu.com/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a797231515558474e47376b7265744879652f67697068792e676966.gif)
 
 - 💻 I'm Software Engineering 4rd Year Student
-- 🔭 I’m currently working on Database Administration, Web Development, Mobile Development
-- 🌱 I’m currently learning C++, Autonomous Technologies  
+- 🔭 I’m currently working on Unity, Ubuntu
+- 🌱 I’m currently learning Unity, C++, ROS, Autonomous Technologies  
 - ⚡ Fun fact: I like playing video games! (Especially Simulation, Adventure and Thriller -Story-Based-) 🎮
 
 
