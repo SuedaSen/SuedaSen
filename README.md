@@ -1,9 +1,9 @@
 
-![Alt Text](https://s6.gifyu.com/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a797231515558474e47376b7265744879652f67697068792e676966.gif)
+![Alt Text](https://media.giphy.com/media/kWzyUW7ju2Xy0Xxv4g/giphy.gif)
 
-- 💻 I'm Software Engineering 4rd Year Student
+- 💻 I'm Software Engineer & Computer Engineering Double Major Student
 - 🔭 I’m currently working on Autonomous Technologies  
-- 🌱 I’m currently learning Unity, ROS, C++, C#
+- 🌱 I’m currently learning Unity, ROS, C#, C++
 - ⚡ Fun fact: I like playing video games! (Especially Simulation, Adventure and Thriller -Story-Based-) 🎮
 
 
