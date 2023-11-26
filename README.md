@@ -1,15 +1,15 @@
 
 ![Alt Text](https://media.giphy.com/media/kWzyUW7ju2Xy0Xxv4g/giphy.gif)
 
-- 💻 I'm Software Engineer & Computer Engineering Double Major Student
+- 💻 I'm Software Engineer & Computer Engineer
 - 🔭 I’m currently working on Autonomous Technologies  
-- 🌱 I’m currently learning Unity, ROS, C#, C++
+- 🌱 I’m currently learning Java & related technologies, Unity, ROS, C#, C++
 - ⚡ Fun fact: I like playing video games! (Especially Simulation, Adventure and Thriller -Story-Based-) 🎮
 
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/süedaşen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="suedasen"/></a>
+<a href="https://www.linkedin.com/in/suedasen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="suedasen"/></a>
 <a href="https://medium.com/@suedasen" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@suedasen"/></a> <br>
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:suedasen@outlook.com.tr)](mailto:suedasen@outlook.com.tr)
 
