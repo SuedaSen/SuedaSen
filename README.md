@@ -86,35 +86,9 @@ backend applications, desktop interfaces, maritime systems and autonomous vehicl
 
 </div>
 
-> The language cards show repository statistics, not a complete measurement of experience or proficiency.
-
----
-
-## Currently
-
-```java
-public class Sueda {
-    String location = "Tempe, Arizona";
-    String education = "M.S. @ Arizona State University";
-    String currentFocus = "Java and backend software engineering";
-    String[] interests = {
-        "Autonomous systems",
-        "Geospatial software",
-        "Simulation",
-        "Story-driven games"
-    };
-}
-```
-
----
-
 <div align="center">
 
 ### Thanks for stopping by!
-
-You can explore my [repositories](https://github.com/SuedaSen?tab=repositories),  
-read my articles on [Medium](https://medium.com/@suedasen),  
-or say hello on [LinkedIn](https://www.linkedin.com/in/suedasen/).
 
 <img src="https://komarev.com/ghpvc/?username=SuedaSen&label=Profile%20views&style=flat-square" alt="Profile views"/>
 
